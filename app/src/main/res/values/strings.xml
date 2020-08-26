@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smarthome TA</string>
+    <string name="hint">Tap on mic to start</string>
+</resources>
